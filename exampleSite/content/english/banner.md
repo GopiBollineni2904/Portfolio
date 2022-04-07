@@ -1,26 +1,26 @@
 ---
-title : "I'm Somrat Sorkar"
+title : "I'm<br>Gopi Bollineni"
 # full screen navigation
-first_name : "MacGyver"
-last_name : "SOMRAT"
+first_name : "Bollineni"
+last_name : "Gopi"
 bg_image : "images/backgrounds/full-nav-bg.jpg"
 # animated text loop
 occupations:
-- "Web Developer"
-- "Graphic Designer"
-- "Database Manager"
+- "Data Analyst"
+- "Finance Enthusiast"
+- "and naturally curious..."
 
 # slider background image loop
 slider_images:
-- "images/slider/slider-1.jpg"
-- "images/slider/slider-2.jpg"
-- "images/slider/slider-3.jpg"
+- "images/slider/slider1.jpg"
+- "images/slider/slider2.jpg"
+- "images/slider/slider3.jpg"
 
 # button
-button:
-  enable : true
-  label : "HIRE ME"
-  link : "#contact"
+# button:
+#   enable : true
+#   label : "HIRE ME"
+#   link : "#contact"
 
 
 # custom style

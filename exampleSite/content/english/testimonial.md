@@ -1,4 +1,4 @@
----
+<!-- ---
 title : "TESTIMONIALS"
 testimonial_slider:
 # slider item loop
@@ -23,4 +23,4 @@ testimonial_slider:
 custom_class: "" 
 custom_attributes: "" 
 custom_css: ""
----
+--- -->

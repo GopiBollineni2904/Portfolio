@@ -1,6 +1,6 @@
 ---
 title : "KNOW MORE <br> ABOUT ME"
-image : "images/backgrounds/portrait.jpg"
+image : "images/backgrounds/GopiBollineni.jpg"
 # button
 button:
   enable : true
@@ -13,22 +13,27 @@ experience:
   title : "EXPERIENCE"
   experience_list:
     # experience item loop
-    - name : "Web Developer"
-      company : "Fiverr.com"
-      duration : "2016-2018"
-      content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
+    - name : "Software Engineer"
+      company : "Mindtree Limited"
+      duration : "Jun 2021 - Feb 2022"
+      content : "I learned and worked on .NET technology and explored creating websites using ASP.NET and Node.js"
       
     # experience item loop
-    - name : "Graphic Designer"
-      company : "Fiverr.com"
-      duration : "2015-2018"
-      content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
+    - name : "Data Analyst"
+    #   company : "Fiverr.com"
+    #   duration : "2015-2018"
+      content : "I'm a fresher in this domain and I am exploring opportunities in this field at this time."
       
-    # experience item loop
-    - name : "Database Manager"
-      company : "Polytechnic"
-      duration : "2014-2018"
-      content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
+    # # experience item loop
+    # - name : "Database Manager"
+    #   company : "Polytechnic"
+    #   duration : "2014-2018"
+    #   content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
+    # # experience item loop
+    # - name : "Database Manager"
+    #   company : "Polytechnic"
+    #   duration : "2014-2018"
+    #   content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
 
 ############################### Skill #################################
 skill:
@@ -37,18 +42,18 @@ skill:
   skill_list:
     # skill item loop
     - name : "Web Development"
-      percentage : "98%"
+      percentage : "65%"
       
     # skill item loop
-    - name : "Graphic Design"
+    - name : "Data Analytics"
       percentage : "85%"
       
     # skill item loop
-    - name : "Database Management"
-      percentage : "90%"
+    - name : "PowerBI"
+      percentage : "75%"
       
     # skill item loop
-    - name : "Wordpress"
+    - name : "Tableau"
       percentage : "70%"
 
 
@@ -58,4 +63,8 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-It's Somrat, Professional Web Developer. I love to write code, it's my passoin. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me........😊
+This is Gopi Bollineni. I love to study, observe and analyse stuff!!<br>
+I have a keen sense of analysis and to be able to look at data and be able to bring out useful and necessary insights excites me.<br>
+I also have an acute thirst for knowledge about finance and the inner workings and operations of the industry.
+I am always there to help my clients and no matter how raw and rigid the data is, and no matter how difficult the project is, I will surely find a way to complete the work.
+Stay connected with me... 🤗
