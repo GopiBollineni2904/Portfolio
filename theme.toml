@@ -1,12 +1,12 @@
-name = "Somrat"
+name = "Gopi Bollineni"
 license = "MIT"
-licenselink = "https://github.com/somratpro/somrat/blob/master/LICENSE"
+licenselink = "https://github.com/GopiBollineni2904/Portfolio/blob/master/LICENSE"
 description = "Portfolio Template (Archived)"
-homepage = "https://somrat.netlify.com"
-tags = ['landing-page', 'fast', 'light', 'white', 'modern', 'dark', 'hugo-theme', 'hugo-templates', 'bootstrap', 'blog', 'responsive', 'clean', 'simple', 'creative', 'contact-form', 'custom-themes', 'mobile', 'minimalistic', 'pages', 'resume', 'portfolio', 'google analytics', 'customizable', 'flexbox', 'presentation', 'product', 'theme', 'typography', 'somratpro']
+homepage = "https://gopibollineni.netlify.com"
+tags = ['landing-page', 'fast', 'light', 'white', 'modern', 'dark', 'hugo-theme', 'hugo-templates', 'bootstrap', 'blog', 'responsive', 'clean', 'simple', 'creative', 'contact-form', 'custom-themes', 'mobile', 'minimalistic', 'pages', 'resume', 'portfolio', 'google analytics', 'customizable', 'flexbox', 'presentation', 'product', 'theme', 'typography', 'DataAnalyst', 'Data', 'Finance', 'Statistics', 'Computer']
 features = ['bootstrap','responsive']
 min_version = "0.60.0"
 
 [author]
   name = "somrat"
-  homepage = "https://somrat.netlify.com/"
+  homepage = "https://gopibollineni.netlify.com/"
